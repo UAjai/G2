@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.container h1{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.container h3{
+    padding-bottom: 20px;
+}
+.container img{
+    padding-top: 20px;
+}
+.container >h1 a{
+    color: rgb(28, 2, 114);
+}
+
